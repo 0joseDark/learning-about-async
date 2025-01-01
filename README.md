@@ -1,4 +1,4 @@
-# learning-about-async
+# learning about async
  aprendendo python: async
  -
  Here are some relevant code examples and documentation related to `Asyncio`:
